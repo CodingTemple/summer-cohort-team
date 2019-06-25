@@ -1,3 +1,18 @@
 p{
     color:red;
 }
+#leyla {
+    border-width: thin;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: black;
+    font-family: helvetica;
+    padding: 10px;
+    text-align: center;
+    
+}
+#leylahead {
+    color: black;
+    text-align: center;
+    size: 20px;
+}
